@@ -1,1 +1,11 @@
+# Goals for the Language Generator
+
+### What it should do
+The language generator that I want to make using python will accomplish a couple tasks:
+* 1. It will take in text that submited through a text document and read it, accounting for words, commas, periods, spaces, ect.
+* 2. It will Generate a language that is semi random, it will use some parameters so the language is readable to someone who speaks english. It will use some english rules, like prefixes, and suffixes. While preforming this it will also check a dictionary of already made words and make sure the word it is generating doesn't already exist.
+* 3. The program will have a text document where it stores a dictionary of all know words in the language currently, formatted next to their english counterpart, so the more english text you give the program to process the more it learns and adds to its expanding dictionary.
+* 4. The program will read aloud the text you have given it in the new language so you can hear what it sounds like.
+* 5. The program will finally after it knows enough will teach you simple phrases in the language.
+* 6. Once you have trained the program enough you will be able to use a sort of translater to translate english to this new language.
 
